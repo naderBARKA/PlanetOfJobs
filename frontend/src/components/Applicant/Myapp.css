@@ -1,0 +1,16 @@
+.MyappCard{
+    background-color: rgb(17, 149, 149);
+     margin-top: 5%;
+}
+.tableMyapp{
+    font-family: monospace;
+    font-weight: bolder;
+   font-style: oblique;
+   background-color: rgb(18, 18, 51);
+   list-style-type: none;
+  
+}
+.tableEle{
+   color: whitesmoke; 
+  margin-top: 10px;
+}

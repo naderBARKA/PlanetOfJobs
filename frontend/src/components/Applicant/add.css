@@ -1,0 +1,15 @@
+.addEducation{
+    background-color: rgb(18, 18, 51);
+    margin-top: 10%;
+    width: 40%;
+    margin-left: 30%;
+}
+.cardAdd{
+    margin-left: 125px;
+    font-family: monospace;
+    font-weight: bolder;
+   font-style: oblique;
+   color: whitesmoke;
+   list-style-type: none;
+  font-size: 20px;
+}

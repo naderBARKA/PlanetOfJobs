@@ -1,0 +1,27 @@
+
+.all-login{
+    background-image: url(https://www.bbvapivot.com/wp-content/uploads/2021/05/portada-reporting.jpg);
+background-repeat: no-repeat;
+
+width:100%;
+height: 600px ;
+
+
+}
+.row{
+ padding-top: 180px;
+   margin-left: 38%;
+   
+}
+.login{
+    font-family: monospace;
+    color: whitesmoke;
+    font-weight: bolder;
+    font-style: oblique;
+}
+.dont{
+    font-family: monospace;
+    color: whitesmoke;
+    font-weight: bolder;
+    font-style: oblique;
+}

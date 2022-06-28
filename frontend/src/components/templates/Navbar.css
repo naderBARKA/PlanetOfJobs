@@ -1,0 +1,51 @@
+.Nav{
+background-color:black;
+position:absolute; 
+top: 0; 
+width: 100%; 
+transition: top 0.3s; 
+
+}
+
+.title{
+    margin-left: 20px;
+    font-family: Andale Mono, monospace;
+    font-size: 30px;
+    
+}
+.title :hover{
+    cursor: pointer;
+  transform: scale(0.9);
+  opacity: 1;
+  transition: transform 1s;
+}
+.home{
+margin-left: 60px;
+
+}
+.home :hover{
+    cursor: pointer;
+  transform: scale(0.9);
+  opacity: 1;
+  transition: transform 1s;
+}
+.profile{
+margin-left: 40px;
+
+}
+.profile :hover{
+    cursor: pointer;
+  transform: scale(0.9);
+  opacity: 1;
+  transition: transform 1s;
+}
+.dash{
+    margin-left: 40px;
+    
+}
+.dash :hover{
+    cursor: pointer;
+  transform: scale(0.9);
+  opacity: 1;
+  transition: transform 1s;
+}

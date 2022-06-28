@@ -1,0 +1,82 @@
+.all-register{
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190622/ourmid/pngtree-boao-asia-forum-technology-earth-asia-city-silhouette-poster-image_210932.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+    width:100%;
+    height: 1000px;
+    position:unset;
+
+}
+.row-register{
+   
+}
+.register{
+    font-family: monospace;
+    color: whitesmoke;
+    font-weight: bolder;
+    font-style: oblique;
+}
+.account{
+    font-family: monospace;
+    color:beige;
+    font-weight: bolder;
+    font-style: oblique;
+}
+.log-in{
+    color:cyan;
+    font-family: monospace;
+    font-weight: bolder;
+    font-style: oblique;
+
+}
+.Role{
+    font-family: monospace;
+    color: whitesmoke;
+    font-weight: bolder;
+    font-style: oblique;
+}
+.select{
+    color:rgb(212, 212, 118);
+}
+.applicant{
+    color:aqua; 
+}
+.recruiter{
+    color:aqua;
+}
+.Name{
+    font-family: monospace;
+    color: whitesmoke;
+    font-weight: bolder;
+    font-style: oblique;
+}
+.Email{
+    font-family: monospace;
+    color: whitesmoke;
+    font-weight: bolder;
+    font-style: oblique;  
+}
+.password{
+    font-family: monospace;
+    color: whitesmoke;
+    font-weight: bolder;
+    font-style: oblique;
+}
+.confirm{
+    font-family: monospace;
+    color: whitesmoke;
+    font-weight: bolder;
+    font-style: oblique;
+}
+.phone{
+    font-family: monospace;
+    color: whitesmoke;
+    font-weight: bolder;
+    font-style: oblique;
+}
+.skills{
+    font-family: monospace;
+    color: whitesmoke;
+    font-weight: bolder;
+    font-style: oblique;
+}

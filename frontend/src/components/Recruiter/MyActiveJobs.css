@@ -1,0 +1,46 @@
+.allActive{
+    background-color: black;
+}
+
+.activeCard{
+    margin-top: 5%;
+}
+.nav{
+    display: flex;
+    background-color: rgb(17, 149, 149);
+}
+.icon{
+    margin-top: 0%;
+    margin-left: 80%;
+
+   
+}
+.jobList{
+    text-align: start;
+}
+
+.view{
+    margin-top:10%;
+}
+
+.linkApp{
+    text-decoration: none;
+}
+.allTable{
+    background-color:rgb(18, 18, 51);
+}
+.titleTable{
+    font-family: monospace;
+    font-weight: bolder;
+   font-style: oblique;
+   color: whitesmoke;
+   list-style-type: none;
+}
+
+.dropItem{
+    width: 100px;
+}
+
+.material-icons{
+    margin-left: 0%;
+}

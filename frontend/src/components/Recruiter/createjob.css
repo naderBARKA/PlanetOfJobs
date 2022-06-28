@@ -1,0 +1,50 @@
+.form{
+    background-color: rgb(17, 149, 149);
+}
+.allForm{
+    display: flex;
+   
+   
+}
+.jobCard{
+    margin-top: 5%;
+   
+}
+.firstHalf{
+    margin-left: 380px;
+}
+.half{
+    margin-left: 100px;
+}
+.buttonPosition{
+margin-left: 44%;
+margin-top :100%;
+background-color:rgb(18, 18, 51);
+
+
+
+}
+.buttonPosition:hover{
+    opacity: 1;
+
+transform: scale(0.9)
+}
+.buttonJob{
+   
+    margin-top:1%;
+}
+.options{
+    font-family: monospace;
+    font-weight: bolder;
+   font-style: oblique;
+   color: whitesmoke;
+   list-style-type: none;
+  font-size: 20px;
+}
+.textJob{
+    font-family: monospace;
+    font-weight: bolder;
+   font-style: oblique;
+   color: whitesmoke;
+   margin-top: 6px;
+}

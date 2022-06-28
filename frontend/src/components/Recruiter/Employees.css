@@ -1,0 +1,35 @@
+.cardEmployee{
+    margin-top: 5%;
+}
+.employee{
+    font-family: monospace;
+    font-weight: bolder;
+   font-style: oblique;
+   color: rgb(255, 0, 0);
+   list-style-type: none;
+  font-size: 20px;
+    
+}
+.gridEmployee{
+    background-color: rgb(17, 149, 149);
+    
+}
+.tableEmployee{
+    background-color: rgb(18, 18, 51);
+    display: flex;
+}
+.TableName{
+    font-family: monospace;
+    font-weight: bolder;
+   font-style: oblique;
+   color: whitesmoke;
+   list-style-type: none;
+}
+.TableType{
+  
+   margin-top: 100px;
+}
+.NameIcon{
+    color: aqua;
+    height: 20px;
+}

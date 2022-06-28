@@ -1,0 +1,41 @@
+.allEdit{
+    margin-top: 8%;
+    width: 50%;
+    margin-left: 25%;
+}
+.cardHeader{
+    background-color:  rgb(17, 149, 149);
+}
+.cardBody{
+    background-color: rgb(18, 18, 51);
+}
+.buttonEdit{
+    color: rgb(138, 255, 80);
+    font-variant: inherit;
+    border-radius: 20px;
+    margin-right: 20%;
+}
+.name{
+    font-family: monospace;
+     font-weight: bolder;
+    font-style: oblique;
+    color: whitesmoke;
+}
+.bio{
+    font-family: monospace;
+    font-weight: bolder;
+   font-style: oblique;
+   color: whitesmoke;
+}
+.contactnum{
+    font-family: monospace;
+    font-weight: bolder;
+   font-style: oblique;
+   color: whitesmoke;
+}
+.email{
+    font-family: monospace;
+    font-weight: bolder;
+   font-style: oblique;
+   color: whitesmoke;
+}
